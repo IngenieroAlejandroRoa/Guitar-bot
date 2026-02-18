@@ -1,0 +1,1 @@
+Sistema robótico guitarrista controlado por ESP32. Utiliza servomotores para posicionamiento de acordes y motores paso a paso y servos para punteo y rasgado, permitiendo la ejecución automatizada de piezas musicales mediante control embebido.
